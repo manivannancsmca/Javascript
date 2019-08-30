@@ -1,0 +1,9 @@
+Jquery Promises function using AJAX :
+---------------------------------------
+$.ajax({	
+})
+.done(function(data) {	
+})
+.fail(function(xhr) {
+});
+
